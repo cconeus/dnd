@@ -3,7 +3,7 @@
 ##### a simple character creator and campaign manager, started 8/29/2015
 
 
-#### By Tim White, Ike Mattice, Dillon Lloyd Lee, Michael Rapp & Charles Moss
+#### By Tim White, Ike Mattice, Dillon Lloyd Lee, Michael Rapp Dana Sharman & Charles Moss
 
 
 ## Description
